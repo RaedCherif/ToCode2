@@ -1,5 +1,6 @@
 <?xml version = "1.0" encoding = "ISO-8859-1"?>
 
+
 <livre xmlns:p1="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
 
     <p1:titre></p1:titre>
