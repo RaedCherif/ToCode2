@@ -15,11 +15,10 @@
         <chapitre titre = "">
 
             <paragraphe>
-            	<!ENTITY xml <element id="10">&lt</element>>
-            	</br>
+            	xml <element id="10">&lt;</element>
             </paragraphe>
             <paragraphe>
-                <![CDATA[xml <element id="10">></element>]]>
+                <![CDATA[xml <element id="10">>;</element>]]>
             </paragraphe>
 
         </chapitre>
