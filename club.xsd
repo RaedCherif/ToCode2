@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 <!-- Define the elements that make up a Member's Name -->
+
 <!-- Define a Member -->
 <xs:element name="Member" maxOccurs="unbounded">
 <xs:complexType>
