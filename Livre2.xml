@@ -1,0 +1,49 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+
+<livre titre = "">
+
+    <auteurs>
+     
+        <auteur nom ="" prenom ="" ></auteur>
+     
+        <auteur nom ="" prenom ="" ></auteur>
+    
+    </auteurs>
+
+    <section titre = "">
+
+        <chapitre titre = "">
+
+            <paragraphe></paragraphe>
+            <paragraphe></paragraphe>
+
+        </chapitre>
+        
+        <chapitre titre = "">
+
+            <paragraphe></paragraphe>
+            <paragraphe></paragraphe>
+
+        </chapitre>
+
+    </section>
+
+    <section titre = "">
+
+        <chapitre titre = "">
+
+            <paragraphe></paragraphe>
+            <paragraphe></paragraphe>
+
+        </chapitre>
+        
+        <chapitre titre = "">
+
+            <paragraphe></paragraphe>
+            <paragraphe></paragraphe>
+
+        </chapitre>
+
+    </section>
+    
+</livre>
